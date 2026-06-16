@@ -1,7 +1,6 @@
 # 🎬 StreamFlix: Customer Churn & Revenue Risk Analysis
 
-### 📊 [View the Live Interactive Application Here](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
-
+### 📊 [View the Live Interactive Application Here](https://cdelta1999-ui.github.io/StreamFlix-Customer-Churn-Analysis/)
 ## 📝 The Business Problem
 Imagine a new movie streaming service called StreamFlix (like Netflix or Prime Video). They are spending millions of dollars on advertising to get new customers to sign up for ₹999/month. 
 
