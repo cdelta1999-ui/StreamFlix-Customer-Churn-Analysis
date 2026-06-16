@@ -2,7 +2,7 @@
 
 ### 📊 [View the Live Interactive Application Here](https://cdelta1999-ui.github.io/StreamFlix-Customer-Churn-Analysis/)
 ## 📝 The Business Problem
-Imagine a new movie streaming service called StreamFlix (like Netflix or Prime Video). They are spending millions of dollars on advertising to get new customers to sign up for ₹999/month. 
+A new movie streaming service called StreamFlix. They are spending millions of dollars on advertising to get new customers to sign up for ₹999/month. 
 
 But there is a huge problem: **40% of their new customers cancel their subscription after just two months.** StreamFlix is bleeding money. I was brought in to analyze the customer database, find out why people are leaving, and provide actionable solutions to plug the leak.
 
